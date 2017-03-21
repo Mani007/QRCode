@@ -243,3 +243,36 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/qrflask/qrflask/env/src/pymaging-png/
+/qrflask/qrflask/env/src/pymaging/
+/qrflask/qrflask/env/src/pip-delete-this-directory.txt
+/qrflask/qrflask/env/share/man/man1/qr.1
+/qrflask/qrflask/env/Scripts/__pycache__/viewer.cpython-36.pyc
+/qrflask/qrflask/env/Scripts/__pycache__/thresholder.cpython-36.pyc
+/qrflask/qrflask/env/Scripts/__pycache__/player.cpython-36.pyc
+/qrflask/qrflask/env/Scripts/__pycache__/pilprint.cpython-36.pyc
+/qrflask/qrflask/env/Scripts/__pycache__/pilfont.cpython-36.pyc
+/qrflask/qrflask/env/Scripts/__pycache__/pilfile.cpython-36.pyc
+/qrflask/qrflask/env/Scripts/__pycache__/pildriver.cpython-36.pyc
+/qrflask/qrflask/env/Scripts/__pycache__/pilconvert.cpython-36.pyc
+/qrflask/qrflask/env/Scripts/__pycache__/painter.cpython-36.pyc
+/qrflask/qrflask/env/Scripts/__pycache__/gifmaker.cpython-36.pyc
+/qrflask/qrflask/env/Scripts/__pycache__/explode.cpython-36.pyc
+/qrflask/qrflask/env/Scripts/__pycache__/enhancer.cpython-36.pyc
+/qrflask/qrflask/env/Scripts/__pycache__/createfontdatachunk.cpython-36.pyc
+/qrflask/qrflask/env/Scripts/viewer.py
+/qrflask/qrflask/env/Scripts/thresholder.py
+/qrflask/qrflask/env/Scripts/qr.exe
+/qrflask/qrflask/env/Scripts/player.py
+/qrflask/qrflask/env/Scripts/pilprint.py
+/qrflask/qrflask/env/Scripts/pilfont.py
+/qrflask/qrflask/env/Scripts/pilfile.py
+/qrflask/qrflask/env/Scripts/pildriver.py
+/qrflask/qrflask/env/Scripts/pilconvert.py
+/qrflask/qrflask/env/Scripts/painter.py
+/qrflask/qrflask/env/Scripts/gifmaker.py
+/qrflask/qrflask/env/Scripts/filename.png
+/qrflask/qrflask/env/Scripts/explode.py
+/qrflask/qrflask/env/Scripts/enhancer.py
+/qrflask/qrflask/env/Scripts/createfontdatachunk.py
+/qrflask/qrflask/env/.ptvs/database.pid
